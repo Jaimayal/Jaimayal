@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 I'm currently Self Employed as a contractor for multiple clients. I have been working a lot with React, Laravel, and Python recently!
+💻 I'm currently Self Employed as a contractor for multiple clients.
 
 🚀 I'm teaching myself Economics, Finance, and Philosophy in my free time!
 
