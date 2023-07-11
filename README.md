@@ -8,7 +8,7 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jaime-ayala-fernandez/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Jaimayal) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Jaimayall) 
 
-# 📚 Reading List:
+## 📚 Reading List:
 - [ ] [The Psychology of Money](https://www.amazon.com/Psychology-Money-Timeless-lessons-happiness/dp/0857197681)
 - [ ] [The Wealth of Nations](https://www.amazon.com/Wealth-Nations-Adam-Smith/dp/1505577128)
 - [ ] [A Philosophy of Software Design](https://www.amazon.com/-/es/John-Ousterhout/dp/173210221X)
