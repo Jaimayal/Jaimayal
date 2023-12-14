@@ -1,11 +1,5 @@
 # 💫 About Me:
-💻 I'm currently Self Employed as a contractor for multiple clients.
-
-🚀 I'm teaching myself Economics, Finance, and Philosophy in my free time!
-
-⭐ I'm planning to start learning Scala (and FP as a whole) soon.
-
-
+💻 Full-Time Full Stack Developer. I love building products
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jaime-ayala-fernandez/)
